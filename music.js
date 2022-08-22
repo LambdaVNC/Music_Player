@@ -16,3 +16,6 @@ const musicList = [
     new Music("Bu da geçer mi sevgilim","Yalın","2.jpg","2.mp3"),
     new Music("Emro","Şakıro","3.jpg","3.mp3")
 ]
+
+
+
